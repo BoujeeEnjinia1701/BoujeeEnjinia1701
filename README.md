@@ -6,7 +6,7 @@
 
 **Pragmatic minds, building what matters.**
 
-This is the lab of [Design Molecule](https://designmolecule.com). Design Molecule works at the intersection of engineering rigor, creative thinking and strategic clarity. Here, that practice is applied in the open: garage-buildable hardware concepts that take a real problem, break it into measurable requirements, and work it through to a documented proof of concept that anyone can inspect, build on or challenge.
+[Design Molecule](https://designmolecule.com) works at the intersection of engineering rigor, creative thinking and strategic clarity. This is its open lab: garage-buildable hardware concepts that take a real problem, break it into measurable requirements, and work it through to a documented proof of concept that anyone can inspect, build on or challenge.
 
 [designmolecule.com](https://designmolecule.com)
 
