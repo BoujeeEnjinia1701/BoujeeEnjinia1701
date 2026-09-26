@@ -49,7 +49,7 @@ Several projects are components that others build on, so a fix in one reaches al
 
 ### How each project is written up
 
-The newest repositories open with the same four sections: the concept rationale, the burning platform it addresses (with cited figures), where it could be used by industry and by country or region, and what sparked the idea.
+Every repository opens with the same four sections: the concept rationale, the burning platform it addresses (with cited figures), where it could be used by industry and by country or region, and what sparked the idea.
 
 ## Where things stand
 
