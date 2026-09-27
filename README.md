@@ -86,4 +86,4 @@ Every project has reached **TRL 3**: proof of concept on paper, with sizing calc
 
 ## Get in touch
 
-For collaboration, advisory or co-design partnerships, reach out through [designmolecule.com](https://designmolecule.com/contact-us/).
+For collaboration, advisory or co-design partnerships, email [lab@designmolecule.com](mailto:lab@designmolecule.com).
