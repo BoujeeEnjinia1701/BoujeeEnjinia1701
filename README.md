@@ -8,8 +8,6 @@
 
 [Design Molecule](https://designmolecule.com) works at the intersection of engineering rigor, creative thinking and strategic clarity. This is its open lab: garage-buildable hardware concepts that take a real problem, break it into measurable requirements, and work it through to a documented proof of concept that anyone can inspect, build on or challenge.
 
-[designmolecule.com](https://designmolecule.com)
-
 ---
 
 ## Open designs
